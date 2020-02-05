@@ -2,6 +2,6 @@
 无障碍 Lua脚本 工具
 
 ## 文档地址
-https://scriptdance.github.io/nodescript/
+https://scriptdance.github.io/Node-Script/
 
 
