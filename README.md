@@ -1,6 +1,18 @@
 # 节点精灵
-无障碍 Lua脚本 工具
+> 节点精灵是一款 Android 无障碍服务插件
+- Lua 语言支持
 
-## 文档地址
-https://scriptdance.github.io/Node-Script/
+- 免Root 脚本支持
+
+- 轻便的开发工具
+
+- 可视化的Dump 节点工具
+
+- 多平台兼容
+
+- 简单的接口调用，强大的检索功能
+
+- 支持Http 调用
+
+
 

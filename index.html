@@ -5,21 +5,37 @@
   <title>节点精灵-开发文档</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="节点精灵" content="免RootLua脚本开发">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <style>
+    nav.app-nav li ul {
+      min-width: 100px;
+    }
+  </style>
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: '',
+      name: '节点精灵',
+<!--      repo: 'Lua 免Root 脚本开发工具 @游自在',-->
       coverpage: true,
-      loadSidebar: true
-<!--      loadNavbar: true-->
+      loadSidebar: true,
+      auto2top: true,
+      maxLevel: 4,
+      subMaxLevel: 3,
+      search: 'auto',
+      search: {
+        placeholder: '快速搜索',
+      },
+      mergeNavbar: true,
+      disqus: 'shortname'
     }
   </script>
-  <script src="//unpkg.com/docsify"></script>
+<!--  <script src="//unpkg.com/docsify"></script>-->
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+  <script src="//unpkg.com/docsify-copy-code"></script>
+  <script src="//unpkg.com/prismjs/components/prism-lua.js"></script>
 </body>
 </html>

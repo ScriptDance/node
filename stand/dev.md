@@ -1,9 +1,9 @@
-# <a name="#1">免Root开发</a>
+## 免Root开发
  - 请用浏览器 访问IP（ip:port/create)
 
-# <a name="#2">触动精灵</a>
+## 触动精灵
  - 下载FreeSpace 框架
 
-# <a name="#3">飞天助手</a>
+## 飞天助手
  - 下载FreeSpace 框架
 

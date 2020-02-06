@@ -1,30 +1,9 @@
-* [首页]()
-- 快速入门
-  - 开发环境
-    - [下载并安装](/stand/tools.md#1)
-    - [使用节点精灵 查看设备节点](/stand/tools.md#2)
-        - [真机](/stand/tools.md#2)
-        - [模拟器](/stand/tools.md#2)
-  - 集成
-    - [免root开发](/stand/dev.md)
-    - [触动精灵](/stand/dev.md)
-    - [飞天助手](/stand/dev.md)
-  - API
-    - [检索规则](/api/rule.md)
-      - [创建检索规则](/api/rule.md#1)
-      - 文本检索规则
-      - ID检索规则
-      - 类型检索规则
-      - 描述检索规则
-      - 子控件个数检索
-      - 子控件条件检索
-    - 动作
-      - 点击控件
-      - 长按控件
-      - 输入文本
-      - 手势点击
-      - 手势滑动
-  - [视频教程](custom-navbar.md)
-    - 触动精灵开发指南
-    - 飞天助手开发智能
-    - 免Root开发指南
+
+  - [视频教程](vides.md)
+  - [开发环境](/stand/tools.md)
+  - [集成](/stand/dev.md)
+  - 方法
+    - [检索规则 R()](/api/rule.md)
+    - [检索节点 find()](/api/find.md)
+    - [动作](/api/action.md)
+    - [其他](/api/system.md)
