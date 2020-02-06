@@ -1,2 +1,2 @@
-* [首页](http/)
+* [首页](README)
 * [指南](zh-cn/guide)
