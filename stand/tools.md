@@ -1,5 +1,5 @@
 ## 下载与安装
- > [下载-节点精灵 （Android）](<https://scriptdance.github.io/Node-Script/assert/jdscript.apk>)
+ > [下载-节点精灵 （Android）](<https://scriptdance.github.io/node/assert/jdscript.apk>)
  
  支持：
    - 手机（华为，vivo，oppo，小米，魅族，htc，三星，联想，360，等）
