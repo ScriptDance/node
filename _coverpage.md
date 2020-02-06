@@ -1,4 +1,4 @@
-<img width="180px" style="border-radius: 50%" bor src="/assert/logo.png">
+<img width="180px" style="border-radius: 50%" bor src="https://scriptdance.github.io/Node-Script/assert/logo.png">
 
 # 节点精灵技术指南
 
