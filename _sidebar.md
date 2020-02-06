@@ -1,2 +1,2 @@
-* [首页](README.md)
-* [API](api/)
+* [首页](https://scriptdance.github.io/Node-Script)
+* [API](/api/_sidebar.md)
