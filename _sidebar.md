@@ -1,8 +1,8 @@
-* [首页](https://scriptdance.github.io/Node-Script/#)
+* [首页]()
 - 快速入门
   - 开发环境
-    - [安装 节点精灵]()
-    - [节点可视化查看]()
+    - [安装 节点精灵](/stand/tools.md)
+    - [节点可视化查看](/stand/tools.md)
     - [真机]
     - [模拟器]
   - 集成
