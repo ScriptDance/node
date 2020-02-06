@@ -1,17 +1,17 @@
 * [首页]()
 - 快速入门
   - 开发环境
-    - [安装 节点精灵](/stand/tools.md)
-    - [节点可视化查看](/stand/tools.md)
-    - [真机]
-    - [模拟器]
+    - [下载并安装](/stand/tools.md#1)
+    - [使用节点精灵 查看设备节点](/stand/tools.md#2)
+        - [真机](/stand/tools.md#2)
+        - [模拟器](/stand/tools.md#2)
   - 集成
-    - [免root开发](/stand/ais.md)
-    - [触动精灵](/stand/touchscript.md)
-    - [飞天助手](/stand/ais.md)
+    - [免root开发](/stand/dev.md)
+    - [触动精灵](/stand/dev.md)
+    - [飞天助手](/stand/dev.md)
   - API
     - [检索规则](/api/rule.md)
-      - 创建检索规则
+      - [创建检索规则](/api/rule.md#1)
       - 文本检索规则
       - ID检索规则
       - 类型检索规则
