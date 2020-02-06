@@ -1,2 +1,2 @@
-* [首页](README)
-* [指南](zh-cn/guide)
+* [首页](https://scriptdance.github.io/Node-Script)
+* [API](api/)
