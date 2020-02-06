@@ -1,2 +1,30 @@
-* [首页](https://scriptdance.github.io/Node-Script)
-* [API](/api/_sidebar.md)
+* [首页](https://scriptdance.github.io/Node-Script/#)
+- 快速入门
+  - 开发环境
+    - [安装 节点精灵]()
+    - [节点可视化查看]()
+    - [真机]
+    - [模拟器]
+  - 集成
+    - [免root开发](/stand/ais.md)
+    - [触动精灵](/stand/touchscript.md)
+    - [飞天助手](/stand/ais.md)
+  - API
+    - [检索规则](/api/rule.md)
+      - 创建检索规则
+      - 文本检索规则
+      - ID检索规则
+      - 类型检索规则
+      - 描述检索规则
+      - 子控件个数检索
+      - 子控件条件检索
+    - 动作
+      - 点击控件
+      - 长按控件
+      - 输入文本
+      - 手势点击
+      - 手势滑动
+  - [视频教程](custom-navbar.md)
+    - 触动精灵开发指南
+    - 飞天助手开发智能
+    - 免Root开发指南
