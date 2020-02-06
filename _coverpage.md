@@ -4,5 +4,6 @@
 
 - 免root Lua 脚本开发 文档
 
+[软件下载](</assert/jdscript.apk>)
 [GitHub](<https://scriptdance.github.io/Node-Script>)
 [开始阅读](README.md)
