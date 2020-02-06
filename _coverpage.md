@@ -1,4 +1,4 @@
-<img width="180px" style="border-radius: 50%" bor src="/assert/logo.png?x-oss-process=style/may">
+<img width="180px" style="border-radius: 50%" bor src="https://scriptdance.github.io/node/assert/logo.png?x-oss-process=style/may">
 
 # 节点精灵 <small>1.5.7</small>
 
