@@ -1,8 +1,7 @@
-# 下载与安装
- - [点击下载A](<https://scriptdance.github.io/Node-Script/assert/jdscript.apk>)
- - 暂且仅支持 Android 设备
-     - ·真机 · 模拟器（雷电，夜神，mumu 等） 
- - 模拟器安装拖动进模拟器即可。
+# 下载
+ - [下载-节点精灵 （Android）](<https://scriptdance.github.io/Node-Script/assert/jdscript.apk>)
+   - ·真机 · 模拟器（雷电，夜神，mumu 等） 
+ - 下载-节点精灵 （IOS）暂不支持
 
 # 使用 节点精灵 查看设备节点
  - 真机
