@@ -16,7 +16,8 @@ if view then
    print(view.type)      -- 节点类型 string
    print(view.isChecked) -- 节点是否被勾选|选中 boolean
    print(view.childCount)-- 节点包含的子控件个数 number
-   print(view.rect)      -- 节点在屏幕上显示的区域 table {0,100,1280,720} 前两位区域左上角坐标，后两位区域右下角坐标
+   print(view.rect[1]..','..view.rect[2]..','..view.rect[3]..','..view.rect[4])    
+   -- 节点在屏幕上显示的区域 table {0,100,1280,720} 前两位区域左上角坐标，后两位区域右下角坐标
 end
 ```
 ----
@@ -39,7 +40,8 @@ for k,view in pairs(views) do
      print(view.type)      -- 节点类型 string
      print(view.isChecked) -- 节点是否被勾选|选中 boolean
      print(view.childCount)-- 节点包含的子控件个数 number
-     print(view.rect)      -- 节点在屏幕上显示的区域 table {0,100,1280,720} 前两位区域左上角坐标，后两位区域右下角坐标
+     print(view.rect[1]..','..view.rect[2]..','..view.rect[3]..','..view.rect[4])   
+     -- 节点在屏幕上显示的区域 table {0,100,1280,720} 前两位区域左上角坐标，后两位区域右下角坐标
 end
 ```
 
