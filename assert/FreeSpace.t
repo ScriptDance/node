@@ -5,8 +5,6 @@ print = function (msg)
 	lineprint(msg);
 end;
 
-nLog = lineprint;
-
 -- 启动服务
 function FreeSpace:start()
 	-- body
@@ -82,12 +80,10 @@ end
 function FreeSpace:submit(order)
 	-- body
 	local host = "http://127.0.0.1:9090";
-	
-	nLog(host..order);
-	
-	local res = httprequest("get",host..order,"","utf-8");
+	print(host..order);
+	local res  = httprequest("post",host..order,"","utf-8","Content-Type=application/x-www-form-urlencoded");
+    print("FreeSpace-Result:"..res);
 	if res then
-		nLog("FreeSpace-Result:"..res);
 		local resT = JsonDecode(res)
 		if resT.code == 1 then
 			return resT;
@@ -251,35 +247,6 @@ end
 function toast(s)
     messagebox(s);
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 -----------------URL ENCODE
@@ -663,27 +630,5 @@ parse = function(str, idx)
 end
 
 
-
-
---require("FreeSpace")
-
---local str = httpGet("http://127.0.0.1:8080/find?text=1234");
---local views = decodeView(str);
---for k,v in pairs(views) do
---	nLog("cid:"..v.cid);-- 控件cid 可以用于操控控件点击，长按，文本复制，文本输入等操作
---	nLog("x:"..v.rect.left);--x坐标
---	nLog("y:"..v.rect.top);--x坐标
---	nLog("文本:"..v.text);--控件内的文本
-----	v:click();
---end
-
---views[2]:input("123466");
-
-----str = httpGet("http://127.0.0.1:8080/cmd?a=click&id=7");
-
---nLog(str);
-
-
---local str = httpGet("http://127.0.0.1:8080/find?text=1234");
 
 ------------------------------------JSON END
