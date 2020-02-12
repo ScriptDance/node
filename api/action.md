@@ -71,7 +71,7 @@ local rule = R():id("android:id/list");
 
 ```lua 
 local rule = R():id("android:id/list");
-inoyt(rule,"要输入的内容");
+input(rule,"要输入的内容");
 ```
 
 > 语法2: <code>view:input("要输入的内容");</code>
