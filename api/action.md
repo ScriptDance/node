@@ -2,7 +2,6 @@
 > 语法1: <code> click( [R()](/api/rule) ) </code>
 
   
-
    点击 需要传入参数 [R()](/api/rule)  
    
    满足规则的节点 都将被点击
@@ -25,7 +24,18 @@ click(rule);
     view:click();
  end
 ```
+
+> 语法3: <code>click(x,y);</code>
+   
+   !!! Android 7.0 以上系统可使用
+   click(x,y) 可一传入一个屏幕上的坐标
+
+```lua 
+ -- 点击屏幕上 坐标 为 100，700 的地方
+ click(100,700);
+```
 ----
+
 ## 滑动 | slid()
 > 语法1: <code>slid([R()](/api/rule),0)</code>
 
@@ -57,6 +67,21 @@ local rule = R():id("android:id/list");
  end
 ```
 ---
+
+> 语法3: <code>slid(x1,y1,x2,y2,time);</code>
+   
+   !!! Android 7.0 以上系统可使用
+   slid(x1,y1,x2,y2,speed)
+   从 坐标（x1,y1）滑动到（y1,y2） 耗时为time（单位毫秒） 默认1000毫秒
+
+```lua 
+ -- 从坐标 100,100 滑动 到 坐标 700，700
+ slid(100,100,700,700);
+ 
+ -- 从坐标 100,100 滑动 到 坐标 700，700 耗费时间2000毫秒
+  slid(100,100,700,700,2000);
+```
+----
 
 ## 文本输入 | input()
 - 支持传统Android app界面 与 html界面
