@@ -67,7 +67,7 @@ local rule = R():id("android:id/list");
    
    参数【2】要输入的文本内容
    
-   满足规则的节点 都将回被尝试输入内容
+   满足规则的节点 都将会被尝试输入内容
 
 ```lua 
 local rule = R():id("android:id/list");
