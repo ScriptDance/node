@@ -6,4 +6,5 @@
     - [检索规则 R()](/api/rule.md)
     - [检索节点 find()](/api/find.md)
     - [动作](/api/action.md)
+    - [UI](/api/ui.md)
     - [其他](/api/system.md)
