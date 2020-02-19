@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b41eee3d-3e00-4655-9e82-0bc8e6f03a46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/api/io.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/rule.md" beforeDir="false" afterPath="$PROJECT_DIR$/api/rule.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,19 +27,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/api/io.md">
+        <entry file="file://$PROJECT_DIR$/api/rule.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
+            <state relative-caret-position="202">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/api/io.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            <state relative-caret-position="142">
+              <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -128,7 +127,6 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/api/find.md" />
-        <option value="$PROJECT_DIR$/api/rule.md" />
         <option value="$PROJECT_DIR$/vides.md" />
         <option value="$PROJECT_DIR$/stand/tools.md" />
         <option value="$PROJECT_DIR$/_coverpage.md" />
@@ -137,6 +135,7 @@
         <option value="$PROJECT_DIR$/api/ui.md" />
         <option value="$PROJECT_DIR$/_sidebar.md" />
         <option value="$PROJECT_DIR$/api/io.md" />
+        <option value="$PROJECT_DIR$/api/rule.md" />
       </list>
     </option>
   </component>
@@ -222,10 +221,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="801" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32980973" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.32980973" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -234,7 +232,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="TODO" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.2990127" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.2990127" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="4" visible="true" weight="0.3286119" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
@@ -264,13 +262,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/rule.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
     </entry>
@@ -356,8 +347,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/api/io.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        <state relative-caret-position="142">
+          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/rule.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
         </state>
       </provider>
     </entry>
