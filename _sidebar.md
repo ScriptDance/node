@@ -8,4 +8,5 @@
     - [动作](/api/action.md)
     - [UI-界面](/api/ui.md)
     - [IO-读写](/api/io.md)
+    - [图色](/api/pic.md)
     - [其他](/api/system.md)
