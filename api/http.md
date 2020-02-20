@@ -1,5 +1,5 @@
 ## HTTP 模块
->  对接第三方接口，目前提供 GET，POST-Form，POST-BODY
+>  对接第三方接口，目前提供 GET，POST-Form，POST-Body
 
 ---
 ### HTTP-GET
