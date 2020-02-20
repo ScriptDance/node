@@ -50,9 +50,9 @@ http form 表单请求
 
 ```
 --- 
-### HTTP-POST FROM
+### HTTP-POST BODY
 
-http form 表单请求
+http body 提交
 
 >语法 capture("path",left,top,right,bottom) 
 
